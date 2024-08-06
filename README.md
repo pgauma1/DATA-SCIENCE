@@ -16,16 +16,13 @@ Involving 7 different modularized algorithms for different Use-cases and problem
 
 `7. Apple Stock Price Prediction: **TIME SERIES FORECASTING with ARIMA and ARIMAX, Additionally XGBOOST used**`
 
-## First step is to Clone the repository
-```python
-git clone https://github.com/Vasant19/Data-Science-Projects.git
-```
-## Second step is to Install the requirements.txt
+
+## first step is to Install the requirements.txt
 ```python
 pip install requirements.txt
 ```
 
-## Third step is to Change the directory in the terminal you want to run or edit hyperparameters of a model
+## second step is to Change the directory in the terminal you want to run or edit hyperparameters of a model
 #### For example: 
 ```python
 cd "House Price Prediction"
